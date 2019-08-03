@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KidsApp</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Parola (optional)</string>
+    <string name="action_sign_in">Giriş Ve Kayıt</string>
+    <string name="action_sign_in_short">Giriş Yap</string>
+    <string name="error_invalid_email">Bu e-posta adresi geçersiz</string>
+    <string name="error_invalid_password">Bu şifre çok kısa</string>
+    <string name="error_incorrect_password">Bu şifre yanlış</string>
+    <string name="error_field_required">Bu alan gereklidir</string>
+    <string name="permission_rationale">"E-posta tamamlamalarını sağlamak için Rehber izinleri gerekir."
+    </string>
+</resources>
